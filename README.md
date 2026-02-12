@@ -19,7 +19,6 @@ Here, I document a summary of my projects across SQL, Python, Excel, and Power B
 |---|---|---|
 | 🏥 Healthcare Claims & Operations Analytics | Healthcare analytics, KPI modeling | Analysis of 10K+ hospital admission records to identify billing drivers, payer mix concentration, and operational efficiency gaps using SQL joins, CTEs, and window functions. |
 | 💳 Consumer Credit Card Spend & Merchant Analytics | Financial analytics, customer segmentation | SQL-based spend concentration analysis, merchant category evaluation, and transaction trend modeling using window functions and aggregations. |
-| 🛒 Retail Sales & Inventory Optimization *(Upcoming)* | Revenue analytics, inventory modeling | SQL-driven analysis of sales performance, stock-out risk, and margin variability across product categories. |
 
 ---
 
@@ -29,9 +28,17 @@ Here, I document a summary of my projects across SQL, Python, Excel, and Power B
 |---|---|---|---|
 | 🍽 Tippecanoe County Restaurant Inspection Analytics | Web scraping & EDA | Scraped and cleaned 2,500+ public inspection records to analyze violation trends and compliance patterns. | pandas, NumPy |
 | 🥗 Purdue Dining Court Nutrition Optimization | Data cleaning & feature analysis | Scraped 4,000+ menu records to analyze calorie density, sodium risk, and protein efficiency across dining courts. | pandas, NumPy |
-| 🏀 Sports Performance Scoring Model *(Upcoming)* | Predictive modeling & feature engineering | Engineered performance metrics to develop composite athlete ranking models using structured sports datasets. | pandas |
 
 ---
+
+# R
+
+| Project Title | Area | Description | Tools |
+|---|---|---|---|
+| 🏀 [Oklahoma City Thunder Performance Analysis](https://github.com/tmmhase/okc-thunder-performance-analysis) | Sports analytics, efficiency modeling | Analyzed 2023 OKC Thunder game data to evaluate shooting efficiency (eFG%), defensive metrics, and back-to-back fatigue effects using reproducible R workflows. | tidyverse, ggplot2 |
+
+---
+
 
 # Excel
 
