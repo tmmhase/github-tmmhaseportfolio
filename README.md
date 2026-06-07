@@ -70,7 +70,7 @@ Scraped and analyzed 4,000+ menu records to evaluate:
 
 ---
 
-## 🏀 Oklahoma City Thunder Performance Analysis
+## [🏀 Oklahoma City Thunder Performance Analysis](https://github.com/tmmhase/okc-thunder-performance-analysis)
 
 Analyzed 2023 OKC Thunder game data to evaluate:
 
