@@ -8,7 +8,7 @@ This repository contains projects spanning machine learning, data engineering, s
 
 ## 🚀 Featured Project
 
-### 🍽 Tippecanoe Restaurant Inspection Analytics Platform
+### 🍽 [Tippecanoe Restaurant Inspection Analytics Platform](https://github.com/tmmhase/tippecanoe-restaurant-inspection-analytics)
 
 **Full-Stack Data Science | Data Engineering | Machine Learning**
 
