@@ -108,6 +108,7 @@ Analyzed 2023 OKC Thunder game data to evaluate:
 - Excel
 - ggplot2
 - Matplotlib
+- Tableau
 
 ### Web Development
 - FastAPI
