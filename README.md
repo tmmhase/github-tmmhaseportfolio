@@ -31,7 +31,7 @@ Built an end-to-end analytics platform processing 2,500+ restaurant inspection r
 
 ---
 
-## 🏥 Healthcare Claims & Operations Analytics
+## 🏥 Healthcare Claims & Operations Analytics(ongoing)
 
 Analysis of 10,000+ hospital admission records to identify:
 
