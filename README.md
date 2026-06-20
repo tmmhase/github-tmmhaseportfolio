@@ -44,20 +44,12 @@ Analysis of 10,000+ hospital admission records to identify:
 
 ---
 
-## 💳 Consumer Credit Card Spend & Merchant Analytics
+## Lebron goat( ongoing)
 
-Financial analytics project focused on:
-
-- Spend concentration analysis
-- Merchant category trends
-- Customer segmentation
-- Transaction behavior modeling
-
-**Tools:** SQL, PostgreSQL
 
 ---
 
-## 🥗 Purdue Dining Court Nutrition Optimization
+## 🥗 Purdue Dining Court Nutrition Optimization(ongoing)
 
 Scraped and analyzed 4,000+ menu records to evaluate:
 
