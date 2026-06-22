@@ -52,6 +52,8 @@ Measuring playoff performance above expected outcomes
 Comparing career value added beyond betting market projections
 Developing a custom GOAT Index based on expectation-adjusted impact
 
+**Tools:** Python, Pandas, NBA API, PostgreSQL, Power BI, Matplotlib
+
 ---
 
 ## 🥗 Purdue Dining Court Nutrition Optimization(ongoing)
