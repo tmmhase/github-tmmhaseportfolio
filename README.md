@@ -45,7 +45,12 @@ Analysis of 10,000+ hospital admission records to identify:
 ---
 
 ## Lebron goat( ongoing)
+Analyzed historical NBA betting lines, playoff odds, and championship futures to evaluate player performance relative to market expectations:
 
+Quantifying underdog wins and upset probability
+Measuring playoff performance above expected outcomes
+Comparing career value added beyond betting market projections
+Developing a custom GOAT Index based on expectation-adjusted impact
 
 ---
 
