@@ -40,7 +40,7 @@ Analysis of 10,000+ hospital admission records to identify:
 - Operational efficiency gaps
 - Revenue opportunities
 
-**Tools:** SQL, PostgreSQL, Power BI
+**Tools:** Python,SQL, PostgreSQL, Power BI
 
 ---
 
